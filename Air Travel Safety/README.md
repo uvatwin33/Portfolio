@@ -1,10 +1,12 @@
 # Air-Travel-Safety
 Air Travel Safety with Data Visualizations/Analysis 
 
+#
 **Air Travel Safety**
 
 Data Analysis and Visualization
 
+#
 **Languages Used**
 
 - **Python**
@@ -12,6 +14,7 @@ Data Analysis and Visualization
 - **PowerBI**
 - **Tableau**
 
+#
 **Introduction**
 
 A Data Visualization course in my Master's Program involved a semester project where we had to showcase a few different types of data visualizations bi-weekly. We used Python, R, PowerBI or Tableau to generate the following:
@@ -34,6 +37,7 @@ A Data Visualization course in my Master's Program involved a semester project w
 - Bullet Chart
 - Waterfall Chart
 
+#
 **Air Travel Safety**
 
 The term project asks you to play a role of data analyst for an airline and come up with data visualization/proof to campaign against a false media narrative of frequent and deadly airplane crashes and questionable air safety concerns. The following is a list of required deliverables for the project we were asked to produce:
@@ -47,13 +51,16 @@ The term project asks you to play a role of data analyst for an airline and come
   - Blog Post
   - Presentation
 
+#
 **Blog Post**
 
 The following is a link to my Blog Post I created for external audience to combat the false media narrative: [https://phhands1517.blogspot.com/2023/02/it-is-still-safer-to-fly-in-sky.html](https://phhands1517.blogspot.com/2023/02/it-is-still-safer-to-fly-in-sky.html)
 
+#
 **Infographic**
 
 I created the below infographic that includes data visualizations and detailed analysis.
 
-https://github.com/uvatwin33/Portfolio/blob/main/Air%20Travel%20Safety/Milestone4_Infographic_HanPhil.png
-\<infographic to be included\>
+![Infographic](https://github.com/uvatwin33/Portfolio/blob/main/Air%20Travel%20Safety/Milestone4_Infographic_HanPhil.png "Infographic")
+
+
