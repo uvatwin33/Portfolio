@@ -55,4 +55,5 @@ The following is a link to my Blog Post I created for external audience to comba
 
 I created the below infographic that includes data visualizations and detailed analysis.
 
+https://github.com/uvatwin33/Portfolio/blob/main/Air%20Travel%20Safety/Milestone4_Infographic_HanPhil.png
 \<infographic to be included\>
