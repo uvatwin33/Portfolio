@@ -1,4 +1,4 @@
-### *Exploratory Data Analysis on Major League Baseball*
+# Exploratory Data Analysis on Major League Baseball
 
 **Languages Used**
 
