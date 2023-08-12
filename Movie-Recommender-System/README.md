@@ -8,7 +8,7 @@ This project is a Python implementation of a content based movie recommender sys
 - **collaborative recommender system –** recommends items based on how similar users liked the items.
 
 This project is a hybrid in nature but mostly based on the content-based recommender.
-
+#
 **Packages Used**
 
 - Numpy
@@ -18,28 +18,28 @@ This project is a hybrid in nature but mostly based on the content-based recomme
 - Cosine\_similarity
 - Ipywidgets
 - Display
-
+#
 **Data**
 
 - Movies.csv
 - Ratings.csv
-
+#
 **Build Search Engine**
 
 First, the titles of movies are converted into numeric variables, using 'term frequency' method or 'Tfid' vectorizer. And then, cosine similarity is used to build the recommender system by calculating the similarity between movies. Cosine similarity provides a way to measure how similar users, items, or content is (Stieber, 2018).
-
+#
 **Create A Movie Recommender System**
 
 Another dataset 'ratings.csv' is used to find similar users by ratings. And then, create a content-based movie recommender based on finding users who are similar to you, finding only the movies greater than 10% or more of users who are similar to us, finding how much all of our users like movies rated highly, finding what percentage of all users who watch the recommended movies, creating score by recommendations from similar users divided by all, and displaying top ten movies.
-
+#
 **Widget for Movie Input**
 
 A widget package 'ipywidgets' is used to take a user input and display output using an on-type function.
-
+#
 **Results**
 
 When a movie title is input in the box, the recommender system displays 10 recommended movies that are similar to what you like.
-
+#
 **References:**
 
 Paruchuri, V. (2022, May 27). _Movie Recommendation System With Python And Pandas: Data Project_ [Video]. Dataquest YouTube. [https://www.youtube.com/watch?v=eyEabQRBMQA](https://www.youtube.com/watch?v=eyEabQRBMQA)
