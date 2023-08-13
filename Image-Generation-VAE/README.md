@@ -32,3 +32,9 @@ The 15 x 15 grid of hand-written sample digit images will be produced by the tra
 **License**
 
 This project is licensed under the MIT license.
+
+
+#
+**Copyright**
+
+Portfolio photo credit: <a href="https://www.istockphoto.com">Image by iStock.com</a> on iStock by Getty Images
