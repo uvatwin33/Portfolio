@@ -1,4 +1,4 @@
-# Weather App**
+# The Weather App
 
 This application uses OpenWeatherMap's API to obtain weather forecast data to display the current weather information based on a user input.
 
