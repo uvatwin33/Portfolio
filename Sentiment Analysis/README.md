@@ -47,3 +47,8 @@ When a Navie Bayes Model was applied to, The confusion matrix for the test set p
 [364 2136]]
 
 where the accuracy from the Naïve Bayes Classifier applied-confusion matrix was 0.8608.
+
+# 
+**Coypright**
+
+Portfolio photo credit <a href="https://www.freepik.com/free-vector/customer-feedback-concept-illustration_17195472.htm#query=sentiment%20analysis&position=5&from_view=keyword&track=ais">Image by storyset</a> on Freepik
