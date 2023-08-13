@@ -46,3 +46,5 @@ I think the correlation analysis between action-inducing features of the game an
 **Copyright**
 
 [**http://thinkstats2.com**](http://thinkstats2.com/) ** **** Copyright 2016 Allen B. Downey MIT License: **** ** [**https://opensource.org/licenses/MIT**](https://opensource.org/licenses/MIT)
+
+Portfolio photo credit <a href="https://www.freepik.com">Image by storyset</a> on Freepik

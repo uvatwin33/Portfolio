@@ -53,3 +53,8 @@ Paruchuri, V. (2022, May 27). _Movie Recommendation System With Python And Panda
 Jeong, Y. (2021, April 5). Making a Content-Based Movie Recommender With Python. _Geek Culture_. [https://medium.com/geekculture/creating-content-based-movie-recommender-with-python-7f7d1b739c63](https://medium.com/geekculture/creating-content-based-movie-recommender-with-python-7f7d1b739c63)
 
 Stieber, B. (2018, December 31). Recommending Songs Using Cosine Similarity in R. _Deeper Data Digressions_. [https://bgstieber.github.io/post/recommending-songs-using-cosine-similarity-in-r/](https://bgstieber.github.io/post/recommending-songs-using-cosine-similarity-in-r/)
+
+**Copyright**
+
+Portfolio photo credit: <a href="https://www.istockphoto.com">Image by iStock.com</a> on iStock by Getty Images
+
