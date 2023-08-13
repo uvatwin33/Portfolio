@@ -47,5 +47,7 @@ We also investigated the feature importance for the difference in premiums that 
 
 This feature was found to be one of the Top 10 features out of 40 in terms of feature importance in these models.
 
+#
 **Copyright**
+
 Portfolio photo credit: <a href="https://www.freepik.com/free-vector/illustration-family-life-insurance_3133071.htm">Image by rawpixel.com</a> on Freepik
