@@ -54,3 +54,8 @@ This project can generate actionable insights with both a positive prediction fo
 Germany had experienced a decline in its fertility rate for decades. And yet, in 2018, Germany recorded its highest fertility rates since 1973 (Martin, 2018). It would be prudent for South Korea to study and analyze Germany's data not only for the fertility rate but also for GDP per capita since Germany has been able to recover from the demographic deficit while making steady economic growths.
 
 For this project, that was a main reason to include a similar time series analysis section for Germany for a comparison purpose. Also, we will need to investigate why the fertility prediction for Germany also looks like it is about to erase all the gains in the fertility rate when making a prediction for the next twenty years. Lastly, both countries may need to consider a more flexible immigration policy to allow more qualified migrants to legally come to their countries while providing them with opportunities to work and start having family.
+
+#
+**Copyright**
+
+Portfolio photo credit: Andrei Apoev at https://www.istockphoto.com/vector/young-couple-sitting-at-the-doctors-office-gm1074272356-287626152?phrase=fertility+rate
