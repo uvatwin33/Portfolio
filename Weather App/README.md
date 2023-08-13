@@ -36,3 +36,8 @@ The program is written to show if the user has entered valid input. Otherwise, i
 #
 **Reference**
 OpenWeather API, https://openweathermap.org/api.
+
+#
+**Copyright**
+
+Portfolio Photo Credit: Image by <a href="https://www.freepik.com/free-vector/travel-booking-app-screens_9461444.htm#query=weather%20app&position=49&from_view=keyword&track=ais">Freepik</a>
