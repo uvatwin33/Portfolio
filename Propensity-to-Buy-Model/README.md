@@ -46,3 +46,6 @@ We also investigated the feature importance for the difference in premiums that 
 - By examining purchase rate across premiums, do users' tendency to purchase at a higher rate when they don't see a higher premium after being approved regardless of the size of the premium? This particular investigation allowed us to separate the issue of the size of the premium difference from the size of the premium in terms of better understanding what influences users' decision to purchase.
 
 This feature was found to be one of the Top 10 features out of 40 in terms of feature importance in these models.
+
+**Copyright**
+Portfolio photo credit: <a href="https://www.freepik.com/free-vector/illustration-family-life-insurance_3133071.htm">Image by rawpixel.com</a> on Freepik
