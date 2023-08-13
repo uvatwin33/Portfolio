@@ -58,4 +58,4 @@ For this project, that was a main reason to include a similar time series analys
 #
 **Copyright**
 
-Portfolio photo credit: Andrei Apoev at https://www.istockphoto.com/vector/young-couple-sitting-at-the-doctors-office-gm1074272356-287626152?phrase=fertility+rate
+Portfolio photo credit: Andrei Apoev <a href="https://www.istockphoto.com/vector/young-couple-sitting-at-the-doctors-office-gm1074272356-287626152?phrase=fertility+rate">Image by iStock.com</a> on iStock by Getty Images
